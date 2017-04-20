@@ -1,0 +1,17 @@
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\bin\Debug\ClientConfigTool.ReplayMonitor.dll.config
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\bin\Debug\ClientConfigTool.ReplayMonitor.dll
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\bin\Debug\ClientConfigTool.ReplayMonitor.pdb
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\Views\ReplayMonitorUc.g.cs
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\ClientConfigTool.ReplayMonitor_MarkupCompile.cache
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\ClientConfigTool.ReplayMonitor_MarkupCompile.lref
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\Views\ReplayMonitorUc.baml
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\ClientConfigTool.ReplayMonitor.g.resources
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\ClientConfigTool.ReplayMonitor.Properties.Resources.resources
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\ClientConfigTool.ReplayMonitor.csproj.GenerateResource.Cache
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\ClientConfigTool.ReplayMonitor.dll
+E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\ClientConfigTool.ReplayMonitor.pdb

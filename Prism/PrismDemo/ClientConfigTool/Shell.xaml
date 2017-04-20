@@ -1,0 +1,23 @@
+﻿<Window x:Class="ClientConfigTool.Shell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientConfigTool"
+        xmlns:prism="http://www.codeplex.com/prism"
+        mc:Ignorable="d"
+        Title="Shell" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.07*"/>
+            <RowDefinition Height="0.05*"/>
+            <RowDefinition Height="0.81*"/>
+            <RowDefinition Height="0.07*"/>
+        </Grid.RowDefinitions>
+        <!--<Button Command="{Binding NavCommand}" Content="Nav" CommandParameter="ReplayMonitorUc"/>-->
+        <ContentControl prism:RegionManager.RegionName="TopTitleRegion"/>
+        <ContentControl Grid.Row="1" prism:RegionManager.RegionName="NavMenuRegion"/>
+        <ContentControl Grid.Row="2" prism:RegionManager.RegionName="ContentRegion"/>
+        <ContentControl Grid.Row="3" prism:RegionManager.RegionName="BottomRegion"/>
+    </Grid>
+</Window>

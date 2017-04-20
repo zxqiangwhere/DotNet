@@ -1,0 +1,6 @@
+E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\bin\Debug\GlobalCommand.Infrastructure.dll
+E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\bin\Debug\GlobalCommand.Infrastructure.pdb
+E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\obj\Debug\GlobalCommand.Infrastructure.dll
+E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\obj\Debug\GlobalCommand.Infrastructure.pdb

@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="ClientConfigTool.Nav.Views.NavMenuUc"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ClientConfigTool.Nav.Views"
+             mc:Ignorable="d" 
+             >
+    <Grid Background="#FFE2DEDE">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.7*"/>
+            <ColumnDefinition Width="0.3*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Grid.Column="1" HorizontalAlignment="Center">
+            <Button Width="120" Command="{Binding NavCommand}" FontSize="20" Content="实时监控" CommandParameter="RealTimeMonitorUc"/>
+            <Button Width="120" Command="{Binding NavCommand}" FontSize="20" Content="监控回放" CommandParameter="ReplayMonitorUc"/>
+            <Button Width="120" Command="{Binding NavCommand}" FontSize="20" Content="手术回顾" CommandParameter="OperationReplayUc"/>
+            <!--<StackPanel Width="120">
+                <Label FontSize="20" Content="监控回放" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            </StackPanel>-->
+            <!--<StackPanel Width="120">
+                <Label FontSize="20" Content="手术回顾" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            </StackPanel>-->
+        </StackPanel>
+    </Grid>
+</UserControl>
