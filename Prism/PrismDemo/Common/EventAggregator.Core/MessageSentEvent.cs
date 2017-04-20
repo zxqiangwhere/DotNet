@@ -15,6 +15,7 @@ namespace EventAggregation.Infrastructure
         public string SentTo { get; set; }
         public MessageType type { get; set; }
         public object MessageBody { get; set; }
+        public Action<object> CallBackAction { get; set; }
     }
     public enum MessageType
     {

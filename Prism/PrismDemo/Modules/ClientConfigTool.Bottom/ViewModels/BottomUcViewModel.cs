@@ -37,9 +37,13 @@ namespace ClientConfigTool.Bottom.ViewModels
         {
             Message message = new Message()
             {
-                SentTo="Shell",
+                SentTo = "Shell",
                 /*SentTo = this._regionManager.Regions["ContentRegion"].ActiveViews.First().GetType().Name*/
-                 type = MessageType.OPEN_MODULE_VIEW
+                type = MessageType.OPEN_MODULE_VIEW,
+                CallBackAction = new Action<object>(obj => 
+                {
+
+                })
             };
             this.eventAggreator.GetEvent<MessageSentEvent>().Publish(message);
         }
