@@ -144,6 +144,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Common\CustomControls.lib\CustomControls.lib.csproj">
+      <Project>{f93b7701-edc2-4f7e-8764-a44d65c9ed3b}</Project>
+      <Name>CustomControls.lib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\EventAggregator.Core\EventAggregation.Infrastructure.csproj">
       <Project>{9ed9d9bd-c003-45be-b2d4-66a05a0ddceb}</Project>
       <Name>EventAggregation.Infrastructure</Name>

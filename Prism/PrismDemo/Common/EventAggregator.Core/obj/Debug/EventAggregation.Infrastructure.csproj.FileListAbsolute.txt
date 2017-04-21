@@ -8,3 +8,8 @@ E:\Code\Prism\Demo\PrismDemoSolution\Common\EventAggregator.Core\bin\Debug\Event
 E:\Code\Prism\Demo\PrismDemoSolution\Common\EventAggregator.Core\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
 E:\Code\Prism\Demo\PrismDemoSolution\Common\EventAggregator.Core\obj\Debug\EventAggregation.Infrastructure.dll
 E:\Code\Prism\Demo\PrismDemoSolution\Common\EventAggregator.Core\obj\Debug\EventAggregation.Infrastructure.pdb
+E:\GitRepository\Prism\PrismDemo\Common\EventAggregator.Core\bin\Debug\EventAggregation.Infrastructure.dll
+E:\GitRepository\Prism\PrismDemo\Common\EventAggregator.Core\bin\Debug\EventAggregation.Infrastructure.pdb
+E:\GitRepository\Prism\PrismDemo\Common\EventAggregator.Core\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+E:\GitRepository\Prism\PrismDemo\Common\EventAggregator.Core\obj\Debug\EventAggregation.Infrastructure.dll
+E:\GitRepository\Prism\PrismDemo\Common\EventAggregator.Core\obj\Debug\EventAggregation.Infrastructure.pdb

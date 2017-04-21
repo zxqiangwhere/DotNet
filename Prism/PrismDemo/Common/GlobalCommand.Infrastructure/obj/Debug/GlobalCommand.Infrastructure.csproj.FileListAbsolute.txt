@@ -4,3 +4,10 @@ E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\bin\Deb
 E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
 E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\obj\Debug\GlobalCommand.Infrastructure.dll
 E:\Code\Prism\Demo\PrismDemoSolution\Common\GlobalCommand.Infrastructure\obj\Debug\GlobalCommand.Infrastructure.pdb
+E:\GitRepository\Prism\PrismDemo\Common\GlobalCommand.Infrastructure\bin\Debug\GlobalCommand.Infrastructure.dll
+E:\GitRepository\Prism\PrismDemo\Common\GlobalCommand.Infrastructure\bin\Debug\GlobalCommand.Infrastructure.pdb
+E:\GitRepository\Prism\PrismDemo\Common\GlobalCommand.Infrastructure\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+E:\GitRepository\Prism\PrismDemo\Common\GlobalCommand.Infrastructure\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\GitRepository\Prism\PrismDemo\Common\GlobalCommand.Infrastructure\obj\Debug\GlobalCommand.Infrastructure.csprojResolveAssemblyReference.cache
+E:\GitRepository\Prism\PrismDemo\Common\GlobalCommand.Infrastructure\obj\Debug\GlobalCommand.Infrastructure.dll
+E:\GitRepository\Prism\PrismDemo\Common\GlobalCommand.Infrastructure\obj\Debug\GlobalCommand.Infrastructure.pdb

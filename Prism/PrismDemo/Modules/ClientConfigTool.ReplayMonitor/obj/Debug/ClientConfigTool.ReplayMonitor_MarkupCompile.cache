@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\Code\Prism\Demo\PrismDemoSolution\ClientConfigTool.ReplayMonitor\obj\Debug\
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.ReplayMonitor\obj\Debug\
 ClientConfigTool.ReplayMonitor
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 11579705133
 
 61529846364
-67-382638556
+671069229098
 Views\ReplayMonitorUc.xaml;
 
 False

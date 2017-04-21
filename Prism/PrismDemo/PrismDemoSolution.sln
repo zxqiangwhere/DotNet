@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAggregation.Infrastruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalCommand.Infrastructure", "Common\GlobalCommand.Infrastructure\GlobalCommand.Infrastructure.csproj", "{D1FAA1EF-D0DA-4954-BEAE-5C4250FC85BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls.lib", "Common\CustomControls.lib\CustomControls.lib.csproj", "{F93B7701-EDC2-4F7E-8764-A44D65C9ED3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{D1FAA1EF-D0DA-4954-BEAE-5C4250FC85BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1FAA1EF-D0DA-4954-BEAE-5C4250FC85BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1FAA1EF-D0DA-4954-BEAE-5C4250FC85BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93B7701-EDC2-4F7E-8764-A44D65C9ED3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93B7701-EDC2-4F7E-8764-A44D65C9ED3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93B7701-EDC2-4F7E-8764-A44D65C9ED3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93B7701-EDC2-4F7E-8764-A44D65C9ED3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,5 +86,6 @@ Global
 		{87BE472D-29FF-4811-AB99-A0E506D8B409} = {A1B7857A-01D1-4489-8E28-001FFFF99229}
 		{9ED9D9BD-C003-45BE-B2D4-66A05A0DDCEB} = {D1B9986C-CBBA-46BE-8905-DE9F2269846F}
 		{D1FAA1EF-D0DA-4954-BEAE-5C4250FC85BC} = {D1B9986C-CBBA-46BE-8905-DE9F2269846F}
+		{F93B7701-EDC2-4F7E-8764-A44D65C9ED3B} = {D1B9986C-CBBA-46BE-8905-DE9F2269846F}
 	EndGlobalSection
 EndGlobal

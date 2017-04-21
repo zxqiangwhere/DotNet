@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\Code\Prism\Demo\PrismDemoSolution\Modules\ClientConfigTool.Nav\obj\Debug\
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\
 ClientConfigTool.Nav
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 11531847700
 
 6737876830
-671930599407
+67361845134
 Views\NavMenuUc.xaml;
 
 False

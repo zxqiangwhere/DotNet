@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\Code\Prism\Demo\PrismDemoSolution\Modules\ClientConfigTool.OperationReplay\obj\Debug\
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.OperationReplay\obj\Debug\
 ClientConfigTool.OperationReplay
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 1620498326
 
 6603295425
-66156817712
+66-1439297176
 Views\OperationReplayUc.xaml;
 
 False

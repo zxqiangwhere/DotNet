@@ -125,3 +125,5 @@ E:\GitRepository\Prism\PrismDemo\ClientConfigTool\obj\Debug\Shell.baml
 E:\GitRepository\Prism\PrismDemo\ClientConfigTool\obj\Debug\ClientConfigTool.g.resources
 E:\GitRepository\Prism\PrismDemo\ClientConfigTool\obj\Debug\ClientConfigTool.Properties.Resources.resources
 E:\GitRepository\Prism\PrismDemo\ClientConfigTool\obj\Debug\ClientConfigTool.csproj.GenerateResource.Cache
+E:\GitRepository\Prism\PrismDemo\ClientConfigTool\bin\Debug\CustomControls.lib.dll
+E:\GitRepository\Prism\PrismDemo\ClientConfigTool\bin\Debug\CustomControls.lib.pdb

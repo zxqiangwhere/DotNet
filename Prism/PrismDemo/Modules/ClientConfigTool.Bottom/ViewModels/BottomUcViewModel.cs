@@ -1,5 +1,6 @@
 ﻿using EventAggregation.Infrastructure;
 using Microsoft.Practices.Prism.Commands;
+using Microsoft.Practices.Prism.Interactivity.InteractionRequest;
 using Microsoft.Practices.Prism.Mvvm;
 using Microsoft.Practices.Prism.PubSubEvents;
 using Microsoft.Practices.Prism.Regions;
@@ -19,33 +20,26 @@ namespace ClientConfigTool.Bottom.ViewModels
         IEventAggregator eventAggreator;
         public DelegateCommand ModuleSetCommand { get; private set; }
         public DelegateCommand SNAPCommand { get; private set; }
-        //public ICommand OtherCommand { get; private set; }
+        public InteractionRequest<INotification> CustomPopupViewRequest { get; private set; }
+        public Action MessageDialogAction { get; private set; }
         public BottomUcViewModel()
         {
             this._regionManager = ServiceLocator.Current.GetInstance<IRegionManager>();
             ModuleSetCommand = new DelegateCommand(OpenModuelSet);
             SNAPCommand = new DelegateCommand(SnapMethod);
-            //OtherCommand = new DelegateCommand(() => 
-            //{
-            //    string name = "";
-            //});
-            //GlobalCommand.Infrastructure.GlobalCommands.OpenCommand.RegisterCommand(OtherCommand);
-            //eventAggreator = MyEventAggregator.GetEventAggregator();
+            MessageDialogAction = new Action(() => 
+            {
+                string name = "";
+            });
              eventAggreator = ServiceLocator.Current.GetInstance<IEventAggregator>();
+            this.CustomPopupViewRequest = new InteractionRequest<INotification>();
         }
         private void OpenModuelSet()
         {
-            Message message = new Message()
+            this.CustomPopupViewRequest.Raise(new Notification { Content = "this is Message Show", Title = "Custom Message Dialog" }, result => 
             {
-                SentTo = "Shell",
-                /*SentTo = this._regionManager.Regions["ContentRegion"].ActiveViews.First().GetType().Name*/
-                type = MessageType.OPEN_MODULE_VIEW,
-                CallBackAction = new Action<object>(obj => 
-                {
-
-                })
-            };
-            this.eventAggreator.GetEvent<MessageSentEvent>().Publish(message);
+                string nnn = "";
+            });
         }
         private void SnapMethod()
         {

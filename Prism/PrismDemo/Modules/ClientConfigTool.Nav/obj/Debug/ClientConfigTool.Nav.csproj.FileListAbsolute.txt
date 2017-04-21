@@ -30,3 +30,17 @@ E:\Code\Prism\Demo\PrismDemoSolution\Modules\ClientConfigTool.Nav\obj\Debug\Clie
 E:\Code\Prism\Demo\PrismDemoSolution\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.csproj.GenerateResource.Cache
 E:\Code\Prism\Demo\PrismDemoSolution\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.dll
 E:\Code\Prism\Demo\PrismDemoSolution\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.pdb
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\bin\Debug\ClientConfigTool.Nav.dll.config
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\bin\Debug\ClientConfigTool.Nav.dll
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\bin\Debug\ClientConfigTool.Nav.pdb
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.csprojResolveAssemblyReference.cache
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\Views\NavMenuUc.g.cs
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav_MarkupCompile.cache
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav_MarkupCompile.lref
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\Views\NavMenuUc.baml
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.g.resources
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.Properties.Resources.resources
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.csproj.GenerateResource.Cache
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.dll
+E:\GitRepository\Prism\PrismDemo\Modules\ClientConfigTool.Nav\obj\Debug\ClientConfigTool.Nav.pdb
